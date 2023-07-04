@@ -1,2 +1,2 @@
-# Codesandbox-test
-Test of coding on ipad
+# Coding on Ipad
+Test of coding on ipad using Codesapces in safari browser.
